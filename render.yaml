@@ -6,7 +6,6 @@ services:
     staticPublishPath: .
     domains:
       - critiflix.net
-      - www.critiflix.net
     headers:
       - path: /*
         name: X-Frame-Options
